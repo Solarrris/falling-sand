@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    padding: 12px 0;
+    font-family: "Montserrat";
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+p {
+    margin: 16px 0;
+}
